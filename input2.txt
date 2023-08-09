@@ -1,0 +1,13 @@
+execute
+help
+read
+replace paste cut copy 
+write
+exit
+help
+location
+undo
+redo
+justify
+copy clear
+
